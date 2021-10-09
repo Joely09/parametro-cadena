@@ -1,0 +1,13 @@
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\bin\Debug\netcoreapp3.1\parametro de cadena.exe
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\bin\Debug\netcoreapp3.1\parametro de cadena.deps.json
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\bin\Debug\netcoreapp3.1\parametro de cadena.runtimeconfig.json
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\bin\Debug\netcoreapp3.1\parametro de cadena.runtimeconfig.dev.json
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\bin\Debug\netcoreapp3.1\parametro de cadena.dll
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\bin\Debug\netcoreapp3.1\parametro de cadena.pdb
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\obj\Debug\netcoreapp3.1\parametro de cadena.csprojAssemblyReference.cache
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\obj\Debug\netcoreapp3.1\parametro de cadena.AssemblyInfoInputs.cache
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\obj\Debug\netcoreapp3.1\parametro de cadena.AssemblyInfo.cs
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\obj\Debug\netcoreapp3.1\parametro de cadena.csproj.CoreCompileInputs.cache
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\obj\Debug\netcoreapp3.1\parametro de cadena.dll
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\obj\Debug\netcoreapp3.1\parametro de cadena.pdb
+C:\Users\Joely\source\repos\parametro de cadena\parametro de cadena\obj\Debug\netcoreapp3.1\parametro de cadena.genruntimeconfig.cache
